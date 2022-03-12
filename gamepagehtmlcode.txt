@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title> Corona Fighter Game</title>
+	<style>
+		#mycanvas{
+		background-image: url("https://raw.githubusercontent.com/prateek27/game-webinar-javascript/d47c817d21c553384094b3230fa09db93b42c730/CoronaGame/Assets/back.jpeg");
+		border:5px solid red;
+	}
+	</style>
+	<body>
+		<h1> Corona Fighter Game</h1>
+		<canvas id="mycanvas">
+		</canvas>
+		<script src="game.js">
+		</script>
+	</body>
+</head>
+</html>
